@@ -9,6 +9,7 @@ import org.apache.uima.jcas.JCas;
 
 import edu.cmu.deiis.types.Answer;
 
+
 public class AnswerAnnotator extends JCasAnnotator_ImplBase {
 
   //Pattern to extract the answer, as well as the isCorrect
